@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=AliceEingMayer&show_icons=true&title_color=9400d3&text_color=a28af9&icon_color=9400d3&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=AliceEingMayer&show_icons=true&title_color=9400d3&text_color=9400d3&icon_color=9400d3&bg_color=a28af9&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Bem vindo(a) ao meu GitHub!
  
