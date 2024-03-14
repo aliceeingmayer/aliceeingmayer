@@ -2,6 +2,6 @@
 
 ### Bem vindo(a) ao meu GitHub!
  
-<img src="https://img.shields.io/static/v1?label=Overview&message=AliceEingMayer&color=7F00FF&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=AliceEingMayer&color=a28af9&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estudando na Escola Sesi<br/> Cursando Análise Desenvolvimento de Sistemas no senai</p>
